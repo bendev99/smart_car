@@ -1,0 +1,37 @@
+# Miscellaneous
+/controller/*.class
+/controller/*.log
+/controller/*.pyc
+/controller/*.swp
+/controller/.DS_Store
+/controller/.atom/
+/controller/.build/
+/controller/.buildlog/
+/controller/.history
+/controller/.svn/
+/controller/.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+/controller/*.iml
+/controller/*.ipr
+/controller/*.iws
+/controller/.idea/
+/controller/.vscode/
+
+# Flutter/Dart/Pub related
+/controller**/doc/api/
+/controller**/ios/Flutter/.last_build_id
+/controller.dart_tool/
+/controller.flutter-plugins-dependencies
+/controller.pub-cache/
+/controller.pub/
+/controller/build/
+/controller/coverage/
+
+# Android Studio will place build artifacts here
+/controller/android/app/debug
+/controller/android/app/profile
+/controller/android/app/release
+/controller/ios/
+/controller/android/
